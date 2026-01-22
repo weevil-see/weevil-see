@@ -7,10 +7,10 @@ I use github mainly to get support for technical issues with various programs/da
 ### About Me
 - **Entomologist**: I'm interested in everything, but with a special focus on weevils (Coleoptera: Curculionoidea)
 - **Linux & Command Line User**: Using Windows I had the feeling the computer does not even belong to me.
-- **LaTeX Enthusiast**: I appreciate the simplicity and structure of LaTeX for writing technical documents.
+- **LaTeX Enthusiast**: I appreciate the simplicity and structure of LaTeX.
 
 ### Currently Learning
 - **Python**: Exploring its potential for data management and task automation.
-- **Biodiversity Data Standards**: Diving into frameworks for managing biodiversity information.
+- **Biodiversity Data Standards** and **Ontologies**: Diving into frameworks for managing biodiversity information.
 - **Collections Management Systems**: Investigating how they could benefit the amateur entomology community.
 
