@@ -6,8 +6,8 @@ I use github mainly to get support for technical issues with various programs/da
 
 ### About Me
 - **Entomologist**: I'm interested in everything, but with a special focus on weevils (Coleoptera: Curculionoidea)
-- **Linux & Command Line User**: Using Windows I had the feeling the computer does not even belong to me.
-- **LaTeX Enthusiast**: I appreciate the simplicity and structure of LaTeX.
+- **Linux & Command Line**: Using Windows I had the feeling the computer does not even belong to me. Now I'm using [Manjaro](https://manjaro.org/) and I love it for every aspect!
+- **LaTeX Enthusiast**: I appreciate the simplicity and structure of LaTeX, and I prefer it over Word or LibreOfice because its easy to automate parts of text generation (e.g. I can have a script to produce formatted text from a table).
 
 ### Currently Learning
 - **Python**: Exploring its potential for data management and task automation.
