@@ -19,5 +19,5 @@ I use github mainly to get support for technical issues, and to host [my blog](h
 
 ### Totally in Love with
 - **[TaxonWorks](https://taxonworks.org/)** (The ideal solution for research communities to collect information about organisms)
-- **[TaxonPages](https://github.com/SpeciesFileGroup/taxonpages)** (A simple tool to publish data that is served by the TaxonWorks API)
+- **[TaxonPages](https://github.com/SpeciesFileGroup/taxonpages)** (A simple but powerful/customizable tool to publish data that is served by the TaxonWorks API)
 
