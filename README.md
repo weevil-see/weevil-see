@@ -5,7 +5,7 @@ My main interest are weevils, and as you sure know, [there are a lot of weevils]
 <p align="center"><strong>How do we, as a research community, keep track of what we know about weevils?</strong></p>
 While I’m not a programmer or data scientist, I’m exploring how a bit of coding, useful tools, and biodiversity data standards can make life as an entomologist easier.
 
-I use github mainly to get support for technical issues with various programs/data standards, and to host [my blog](https://weevil-see.com/). I also contribute to the development on a [fork of TaxonPages](https://github.com/Curculionidae/taxa), for the [Curculionidae of the World Online project](https://catalog.curculionoidea.org/#/).
+I use github mainly to get support for technical issues, and to host [my blog](https://weevil-see.com/). I also contribute to the development on a [fork of TaxonPages](https://github.com/Curculionidae/taxa), for the [Curculionidae of the World Online project](https://catalog.curculionoidea.org/#/).
 
 ### About Me
 - **Entomologist**: I'm interested in everything, but with a special focus on weevils (Coleoptera: Curculionoidea)
