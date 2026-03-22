@@ -17,3 +17,7 @@ I use github mainly to get support for technical issues with various programs/da
 - **Biodiversity Data Standards** and **Ontologies**: Diving into frameworks for managing biodiversity information.
 - **Collections Management Systems**: Investigating how they could benefit the amateur entomology community.
 
+### Totally in Love with
+- **[TaxonWorks](https://taxonworks.org/)** (The ideal solution for research communities to collect information about organisms)
+- **[TaxonPages](https://github.com/SpeciesFileGroup/taxonpages)** (A simple tool to publish data that is served by the TaxonWorks API)
+
