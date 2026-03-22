@@ -1,6 +1,6 @@
 # Hi there!
 
-I’m **Jakob** (he/him), an entomologist and Master’s student.\
+I’m **Jakob Jilg** (he/him), an entomologist and Master’s student.\
 My main interest are weevils, and as you sure know, [there are a lot of weevils](https://doi.org/10.11646/zootaxa.1668.1.24). So my primary concern these days is the question:
 <p align="center"><strong>How do we, as a research community, keep track of what we know about weevils?</strong></p>
 While I’m not a programmer or data scientist, I’m exploring how a bit of coding, useful tools, and biodiversity data standards can make life as an entomologist easier.
