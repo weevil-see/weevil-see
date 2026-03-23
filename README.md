@@ -18,6 +18,6 @@ I use github mainly to get support for technical issues, and to host [my blog](h
 - **Collections Management Systems**: Investigating how they could benefit the amateur entomology community.
 
 ### Totally in Love with
-- **[TaxonWorks](https://taxonworks.org/)** (The ideal solution for research communities to collect information about organisms)
+- **[TaxonWorks](https://taxonworks.org/)** (The ideal solution for research communities to collect information about organisms: taxonomy/nomenclature, distribution, images, biological associatons, bibliography, specimens, keys, morphology, etc etc)
 - **[TaxonPages](https://github.com/SpeciesFileGroup/taxonpages)** (A simple but powerful/customizable tool to publish data that is served by the TaxonWorks API)
 
